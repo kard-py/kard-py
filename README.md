@@ -131,13 +131,16 @@ Atualmente na Empresa: JMC Automações LTDA
 <a href="https://instagram.com/caiodetz" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
+<a href="https://wa.me/+5566999348031" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+</a>
 <a href="https://discordapp.com/users/849876936041299989/" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
 <a href = "mailto:caiodetz654@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+<a href="https://br.linkedin.com/in/caio-detz-927345187" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 </p>
