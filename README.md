@@ -24,7 +24,7 @@ bem por enquanto é isso apenas um menino em busca de conhecimento querendo cada
 
 <p>
 
-## • Desenvolvimento web:
+<h2>• Desenvolvimento web:</h2>
 
 </p>
 
@@ -39,7 +39,7 @@ bem por enquanto é isso apenas um menino em busca de conhecimento querendo cada
 
 <p>
 
-## • Linguagens de Programação:
+<h2>• Linguagens de Programação:</h2>
 
 </p>
 
@@ -60,7 +60,7 @@ bem por enquanto é isso apenas um menino em busca de conhecimento querendo cada
 
 <p>
 
-## • Sistemas Operacionais:
+<h2>• Sistemas Operacionais:</h2>
 
 </p>
 
@@ -79,7 +79,7 @@ bem por enquanto é isso apenas um menino em busca de conhecimento querendo cada
 
 <p>
 
-## Estudante do ensino medio:
+<h2>Estudante do ensino medio:</h2>
 
 <br>Escola Estadual da Polícia Militar Tiradentes CB PM Antônio Dilceu da Silva Amaral
 <br>Ingresso em 2017
@@ -92,7 +92,7 @@ bem por enquanto é isso apenas um menino em busca de conhecimento querendo cada
 </p>
 <p>
 
-## Cursos:
+<h2>Cursos:</h2>
 
 <br>Realizado pelo: Curso em Video
 <br>Curso Realizados: HTML5 [40 Horas] | Javascript [40 Horas] | Python 3 [120 Horas]
@@ -111,7 +111,7 @@ bem por enquanto é isso apenas um menino em busca de conhecimento querendo cada
 
 </p>
 
-## Trabalhos:
+<h2>Trabalhos:</h2>
 
 <p>
 Atualmente na Empresa: JMC Automações LTDA
@@ -125,7 +125,7 @@ Atualmente na Empresa: JMC Automações LTDA
 <hr>
 </p>
 
-## Contato:
+<h2>Contato:</h2>
 
 <p align="center">
 <a href="https://instagram.com/caiodetz" target="_blank">
@@ -133,6 +133,9 @@ Atualmente na Empresa: JMC Automações LTDA
 </a>
 <a href="https://wa.me/+5566999348031" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+</a>
+<a href="https://t.me/+5566999348031" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
 </a>
 <a href="https://discordapp.com/users/849876936041299989/" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
